@@ -1,0 +1,2 @@
+# ResourceManager
+Hardware Resource Manager
